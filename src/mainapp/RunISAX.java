@@ -77,7 +77,11 @@ public class RunISAX {
             startExecuteTime = System.currentTimeMillis();
             si = new iSAXIndex(0, new IndexOptions("root/"));
             FromFileRawDataLoader dl = new FromFileRawDataLoader(si);
-            InsertTimeSeries(dl);
+            try {
+                InsertTimeSeries(dl);
+            } except (Exception e) {
+                continue;
+            }
             totalElapsedExecuteTime = System.currentTimeMillis() - startExecuteTime;
             executeMillis = (int) totalElapsedExecuteTime % 1000;
             executeSeconds = (int) (totalElapsedExecuteTime / 1000) % 60;
