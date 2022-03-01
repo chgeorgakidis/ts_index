@@ -210,7 +210,7 @@ public class FunctionsTSIndex {
 
         int count = 0;
         GlobalConfTSIndex.bigSequence = new float[GlobalConfTSIndex.tsLength];
-        GlobalConfTSIndex.dataFile = GlobalConfTSIndex.dataPath + path + "/input.csv";
+        GlobalConfTSIndex.dataFile = GlobalConfTSIndex.dataPath + path + "/inputTSIndex.csv";
         File output = new File(GlobalConfTSIndex.dataFile);
         Files.deleteIfExists(output.toPath());
         OutputStream os = new FileOutputStream(output);
