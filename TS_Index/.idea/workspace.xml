@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9ad2097-f141-43fd-a34e-09aea25710ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1aTsfvBYqZYgQO9PoPJ7RNXefSQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3505747" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java.query" />
+      <recent name="main.java.tools" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-14" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main.java.mainapp.MainApp" />
+      <module name="TS_Index" />
+      <option name="VM_PARAMETERS" value="-Xmx8192m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.mainapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9ad2097-f141-43fd-a34e-09aea25710ea" name="Default Changelist" comment="" />
+      <created>1586771024450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586771024450</updated>
+      <workItem from="1586771026776" duration="741000" />
+      <workItem from="1586771807768" duration="98000" />
+      <workItem from="1586771909642" duration="1391000" />
+      <workItem from="1586773307161" duration="59000" />
+      <workItem from="1586774709532" duration="1206000" />
+      <workItem from="1586776072075" duration="10746000" />
+      <workItem from="1586869853441" duration="54000" />
+      <workItem from="1586887063379" duration="597000" />
+      <workItem from="1586943676854" duration="34000" />
+      <workItem from="1645118151283" duration="402000" />
+      <workItem from="1645121847406" duration="1000" />
+      <workItem from="1645182094421" duration="1531000" />
+      <workItem from="1645528179497" duration="519000" />
+      <workItem from="1645541910241" duration="12132000" />
+      <workItem from="1645605082335" duration="14000" />
+      <workItem from="1646047112407" duration="370000" />
+      <workItem from="1646047718936" duration="23000" />
+      <workItem from="1646047765272" duration="582000" />
+      <workItem from="1646052196961" duration="4689000" />
+      <workItem from="1646136043307" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="c.getMBTShi()" />
+        <watch expression="i" />
+        <watch expression="tsArray[0]*100000000" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
