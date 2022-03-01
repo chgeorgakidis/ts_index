@@ -79,7 +79,7 @@ public class RunISAX {
             FromFileRawDataLoader dl = new FromFileRawDataLoader(si);
             try {
                 InsertTimeSeries(dl);
-            } except (Exception e) {
+            } catch (Exception e) {
                 continue;
             }
             totalElapsedExecuteTime = System.currentTimeMillis() - startExecuteTime;
