@@ -188,7 +188,7 @@ public class FunctionsTSIndex {
         String contents[] = file.list();
         GlobalConfTSIndex.tsLength = 0;
         for (String filename : contents) {
-            if (filename.contains("README") || filename.contains("input.csv") || filename.contains("DS_Store"))
+            if (filename.contains("README") || filename.contains("input") || filename.contains("DS_Store"))
                 continue;
             File innerFile = new File(GlobalConfTSIndex.dataPath + path + "/" + filename);
             InputStream in = new BufferedInputStream(new FileInputStream(innerFile));
@@ -215,7 +215,7 @@ public class FunctionsTSIndex {
         Files.deleteIfExists(output.toPath());
         OutputStream os = new FileOutputStream(output);
         for (String filename : contents) {
-            if (filename.contains("README") || filename.contains("input.csv") || filename.contains("DS_Store"))
+            if (filename.contains("README") || filename.contains("input") || filename.contains("DS_Store"))
                 continue;
 
             File innerFile = new File(GlobalConfTSIndex.dataPath + path + "/" + filename);
