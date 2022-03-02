@@ -1,1 +1,6 @@
-# ts_index
+# TS-Index
+
+| Dataset        | TS-Index     | iSAX       |KV-Index    |Sweepline    |
+| -------------- |:------------:| ----------:|-----------:|------------:|
+
+
