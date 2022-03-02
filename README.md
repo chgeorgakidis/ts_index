@@ -18,7 +18,6 @@
 |Adiac|6sec 627mil|5sec 961mil|34sec 238mil|1h 41m 43sec 681mil|
 |ItalyPowerDemand|1sec 808mil|11sec 518mil|5sec 917mil|5h 1m 18sec 532mil|
 |Yoga|35sec 192mil|35sec 266mil|2m 26sec 154mil|2h 50m 3sec 603mil|
-|AllGestureWiimoteY|3m 47sec 214mil|NaN|2mil|46m 9sec 822mil|
 |Trace|4sec 191mil|2sec 410mil|10sec 319mil|3h 14m 174mil|
 |PigAirwayPressure|1m 37sec 568mil|1m 56sec 525mil|2m 21sec 886mil|2h 8m 13sec 943mil|
 |ShapesAll|18sec 49mil|29sec 161mil|58sec 46mil|4h 3m 5sec 355mil|
@@ -116,3 +115,4 @@
 |CinCECGTorso|7m 28sec 346mil|11m 58sec 372mil|11m 50sec 937mil|3h 54m 30sec 128mil|
 |PigCVP|40sec 574mil|55sec 797mil|58sec 565mil|1h 4m 53sec 23mil|
 |ProximalPhalanxTW|2sec 212mil|1sec 41mil|15sec 896mil|2h 45m 11sec 605mil|
+
