@@ -1,5 +1,6 @@
 # TS-Index
 
+## Range Query Response Time (e=0.5, z-normalized)
 | Dataset        | TS-Index     | iSAX       |KV-Index    |Sweepline    |
 | -------------- |:------------:| ----------:|-----------:|------------:|
 |Haptics|37sec 877mil|34sec 466mil|1m 2sec 559mil|2h 40m 15sec 40mil|
