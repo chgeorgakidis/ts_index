@@ -7,13 +7,11 @@
 |Worms|13sec 334mil|20sec 546mil|17sec 891mil|5h 2m 4sec 377mil|
 |Computers|54sec 62mil|2m 949mil|1m 20sec 665mil|21m 39sec 605mil|
 |HouseTwenty|1m 881mil|1m 57sec 228mil|1m 1sec 38mil|15m 14sec 799mil|
-|GestureMidAirD3|49sec 270mil|NaN|1mil|19m 50sec 440mil|
 |Chinatown|728mil|1sec 206mil|2sec 561mil|46m 12sec 594mil|
 |UWaveGestureLibraryAll|1m 41sec 604mil|2m 23sec 184mil|6m 32sec 992mil|3h 40m 56sec 656mil|
 |Strawberry|5sec 112mil|11sec 367mil|20sec 443mil|1h 39m 33sec 248mil|
 |Car|6sec 45mil|3sec 493mil|6sec 730mil|19m 1sec 353mil|
 |GunPointAgeSpan|5sec 197mil|3sec 839mil|9sec 770mil|3h 13m 45sec 163mil|
-|GestureMidAirD2|48sec 225mil|NaN|0mil|52m 18sec 655mil|
 |BeetleFly|389mil|6sec 488mil|2sec 756mil|1h 38m 46sec 30mil|
 |Wafer|19sec 696mil|20sec 31mil|3m 10sec 823mil|4h 6m 34sec 922mil|
 |CBF|5sec 551mil|6sec 503mil|19sec 536mil|3h 15m 21sec 926mil|
@@ -25,11 +23,9 @@
 |PigAirwayPressure|1m 37sec 568mil|1m 56sec 525mil|2m 21sec 886mil|2h 8m 13sec 943mil|
 |ShapesAll|18sec 49mil|29sec 161mil|58sec 46mil|4h 3m 5sec 355mil|
 |Beef|4sec 339mil|9sec 10mil|4sec 335mil|57m 7sec 872mil|
-|GesturePebbleZ2|58sec 341mil|NaN|1mil|1h 41m 6sec 556mil|
 |Mallat|1m 51sec 718mil|1m 18sec 426mil|4m 40sec 581mil|2h 38m 9sec 848mil|
 |GunPointOldVersusYoung|3sec 679mil|5sec 265mil|7sec 312mil|1h 19m 47sec 147mil|
 |MiddlePhalanxTW|2sec 45mil|1sec 83mil|10sec 554mil|11m 19sec 240mil|
-|AllGestureWiimoteX|3m 50sec 781mil|NaN|1mil|1h 1m 23sec 384mil|
 |Meat|3sec 178mil|6sec 632mil|5sec 729mil|1h 52m 13sec 274mil|
 |Herring|4sec 66mil|2sec 383mil|5sec 810mil|3h 42m 5sec 136mil|
 |MiddlePhalanxOutlineCorrect|1sec 822mil|1sec 713mil|16sec 332mil|13m 46sec 268mil|
@@ -37,7 +33,6 @@
 |FordA|34sec 844mil|11m 33sec 774mil|9m 49sec 3mil|1h 37m 11sec 932mil|
 |SwedishLeaf|2sec 375mil|22sec 599mil|32sec 41mil|1h 37m 39sec 273mil|
 |InlineSkate|2m 49sec 130mil|3m 19sec 403mil|3m 36sec 931mil|9m 23sec 856mil|
-|DodgerLoopDay|9sec 909mil|NaN|0mil|1h 38m 36sec 514mil|
 |UMD|734mil|2sec 390mil|2sec 555mil|1h 38m 42sec 90mil|
 |CricketY|10sec 446mil|52sec 837mil|36sec 890mil|3h 21m 5sec 669mil|
 |WormsTwoClass|16sec 355mil|19sec 592mil|19sec 934mil|3h 21m 54sec 64mil|
@@ -52,7 +47,6 @@
 |SmallKitchenAppliances|1m 48sec 868mil|NaN|4m 25sec 705mil|18m 43sec 495mil|
 |Crop|29sec 966mil|2m 42sec 780mil|1m 41sec 37mil|1h 50m 44sec 449mil|
 |MoteStrain|2sec 464mil|26sec 480mil|24sec 169mil|13m 31sec 604mil|
-|MelbournePedestrian|37sec 115mil|NaN|1mil|2m 48sec 517mil|
 |ECGFiveDays|1sec 691mil|33sec 380mil|28sec 700mil|3h 22m 18sec 31mil|
 |Wine|328mil|885mil|4sec 381mil|2h 24m 13sec 246mil|
 |SemgHandMovementCh2|2m 50sec 287mil|6m 58sec 767mil|3m 11sec 591mil|2h 44m 59sec 129mil|
@@ -63,21 +57,16 @@
 |Lightning7|4sec 478mil|11sec 245mil|5sec 128mil|1h 41m 53sec 519mil|
 |Phoneme|1m 11sec 783mil|14m 54sec 78mil|7m 45sec 188mil|4h 56m 33sec 721mil|
 |SemgHandSubjectCh2|3m 31sec 400mil|7m 15sec 283mil|3m 29sec 302mil|1h 19m 33sec 260mil|
-|DodgerLoopWeekend|13sec 763mil|NaN|0mil|4h 49sec 193mil|
 |MiddlePhalanxOutlineAgeGroup|1sec 254mil|1sec 204mil|12sec 820mil|4h 58sec 509mil|
-|GestureMidAirD1|49sec 899mil|NaN|1mil|3h 41m 46sec 742mil|
 |DistalPhalanxOutlineCorrect|4sec 679mil|3sec 558mil|23sec 400mil|55m 55sec 232mil|
 |DistalPhalanxTW|1sec 146mil|1sec 574mil|10sec 383mil|1h 39m 47sec 599mil|
 |FacesUCR|4sec 957mil|3m 34sec 839mil|1m 11sec 7mil|2h 51m 4sec 666mil|
 |ECG5000|6sec 56mil|44sec 830mil|2m 21sec 217mil|2h 23m 54sec 384mil|
-|ShakeGestureWiimoteZ|13sec 630mil|NaN|1mil|3h 14m 12sec 685mil|
-|GesturePebbleZ1|52sec 634mil|NaN|0mil|3h 25m 16sec 605mil|
 |HandOutlines|6m 3sec 738mil|6m 31sec 836mil|9m 45sec 109mil|3h 13m 15sec 756mil|
 |GunPointMaleVersusFemale|3sec 651mil|4sec 26mil|6sec 966mil|1h 40m 1sec 66mil|
 |Coffee|419mil|601mil|1sec 676mil|2h 50m 6sec 897mil|
 |Rock|32sec 521mil|34sec 848mil|32sec 859mil|1h 29m 10sec 916mil|
 |MixedShapesSmallTrain|1m 53sec 466mil|2m 5sec 632mil|3m 40sec 988mil|1h 14m 33sec 533mil|
-|AllGestureWiimoteZ|3m 47sec 858mil|NaN|0mil|1h 23m 30sec 861mil|
 |FordB|24sec 855mil|12m 58sec 773mil|8m 11sec 947mil|5h 9m 10sec 740mil|
 |FiftyWords|5sec 9mil|29sec 280mil|35sec 154mil|1h 51m 31sec 526mil|
 |InsectWingbeatSound|15sec 274mil|1m 10sec 165mil|1m 31sec 386mil|13m 10sec 165mil|
@@ -94,15 +83,12 @@
 |ShapeletSim|15sec 247mil|1m 31sec 842mil|23sec 830mil|1h 42m 16sec 343mil|
 |DistalPhalanxOutlineAgeGroup|1sec 130mil|1sec 452mil|12sec 122mil|3h 14m 21sec 835mil|
 |InsectEPGSmallTrain|28sec 227mil|35sec 510mil|33sec 992mil|3h 56m 6sec 14mil|
-|PickupGestureWiimoteZ|12sec 100mil|NaN|0mil|1h 23m 42sec 468mil|
 |EOGVerticalSignal|2m 42sec 512mil|3m 49sec 632mil|3m 57sec 73mil|3h 20m 9sec 931mil|
 |CricketZ|11sec 566mil|49sec 154mil|32sec 962mil|51m 23sec 953mil|
 |FaceFour|2sec 372mil|19sec 826mil|8sec 391mil|3h 14m 59sec 691mil|
 |RefrigerationDevices|10sec 985mil|1m 35sec 405mil|1m 47sec 444mil|3h 24m 7sec 481mil|
-|PLAID|10m 44sec 355mil|NaN|1mil|5h 19m 9sec 171mil|
 |MixedShapesRegularTrain|2m 11sec 215mil|2m 9sec 549mil|4m 10sec 27mil|32m 21sec 653mil|
 |GunPoint|4sec 119mil|535mil|6sec 228mil|2h 8m 20sec 861mil|
-|DodgerLoopGame|12sec 266mil|NaN|0mil|4h 35sec 70mil|
 |ECG200|348mil|9sec 766mil|7sec 439mil|21m 45sec 154mil|
 |ToeSegmentation2|1sec 208mil|7sec 773mil|8sec 191mil|1h 40m 12sec 95mil|
 |WordSynonyms|7sec 309mil|35sec 218mil|40sec 224mil|10m 22sec 367mil|
