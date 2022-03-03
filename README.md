@@ -1,7 +1,7 @@
-# TS-Index
+# Efficient Range and Top-k Twin Subsequence Search in Time Series
 
 ## Overview
-[...]
+This source code is [...]
 
 ## Execution
 [...]
