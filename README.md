@@ -15,22 +15,25 @@ TS-Index:
 ```
 java -cp "indices/*" src/mainapp/RunTSIndex.java arg1 arg2 arg3 arg4 arg5 arg6 arg7 "/path-to-UCR-archive/" "/path-to-index-store-location/" "path-to-results"
 ```
-where [...]
+where arg1 is the query type (0 range, 1 kNN), arg2 is epsilon for range queries or k for kNN, arg3 is the minimum number of objects per node, arg4 is the maximum number of objects per node, arg5 is the number of segments, arg6 is the number of queries to run and arg7 is the subsequence length.
 
 iSAX:
 ```
-java -cp "indices/*" src/mainapp/RunTSIndex.java arg1 arg2 arg3 arg4 arg5 arg6 arg7 "/path-to-UCR-archive/" "/path-to-index-store-location/" "path-to-results"
+ava -cp "indices/*" src/mainapp/RunISAX.java arg1 arg2 arg3 arg4 arg5 arg6 "/path-to-UCR-archive/" "/path-to-index-store-location/" "path-to-results"
 ```
+where arg1 is the query type (0 range, 1 kNN), arg2 is epsilon for range queries or k for kNN, arg3 is the maximum number of objects per node, arg4 is the number of segments (wordlength), arg5 is the number of queries to run and arg6 is the subsequence length.
 
 KV-Index:
 ```
-java -cp "indices/*" src/mainapp/RunTSIndex.java arg1 arg2 arg3 arg4 arg5 arg6 arg7 "/path-to-UCR-archive/" "/path-to-index-store-location/" "path-to-results"
+java -cp "indices/*" src/mainapp/RunKVIndex.java arg1 arg2 arg3 "/path-to-UCR-archive/" "/path-to-index-store-location/" "path-to-results"
 ```
+where arg1 is epsilon for range queries, arg2 is the number of queries to run and arg3 is the subsequence length.
 
 Sweepline
 ```
-java -cp "indices/*" src/mainapp/RunTSIndex.java arg1 arg2 arg3 arg4 arg5 arg6 arg7 "/path-to-UCR-archive/" "/path-to-index-store-location/" "path-to-results"
+java -cp "indices/*" src/mainapp/RunSweepLine.java arg1 arg2 arg3 "/path-to-UCR-archive/" "path-to-results"
 ```
+where arg1 is epsilon for range queries, arg2 is the number of queries to run and arg3 is the subsequence length.
 
 ## Results on UCR Archive
 The results we obtained for epsilon=0.25 can be found in the following tables:
