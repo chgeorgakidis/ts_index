@@ -11,7 +11,26 @@ It also contains the source code, JAR files and corresponding instructions for a
 ## Execution
 To run the experiment, first of all download the UCR Archive and extract the datasets at a folder of your preference. Note that there is a folder named "Missing_value_and_variable_length_datasets_adjusted", which must be removed first. Then clone the repo open a terminal and navigate to the ts_index folder. To run the experiment for each approach (TS-Index, iSAX, KV-Index or Sweepline), issue the following commands:
 
+TS-Index:
+```
+java -cp "indices/*" src/mainapp/RunTSIndex.java arg1 arg2 arg3 arg4 arg5 arg6 arg7 "/path-to-UCR-archive/" "/path-to-index-store-location/" "path-to-results"
+```
+where [...]
 
+iSAX:
+```
+java -cp "indices/*" src/mainapp/RunTSIndex.java arg1 arg2 arg3 arg4 arg5 arg6 arg7 "/path-to-UCR-archive/" "/path-to-index-store-location/" "path-to-results"
+```
+
+KV-Index:
+```
+java -cp "indices/*" src/mainapp/RunTSIndex.java arg1 arg2 arg3 arg4 arg5 arg6 arg7 "/path-to-UCR-archive/" "/path-to-index-store-location/" "path-to-results"
+```
+
+Sweepline
+```
+java -cp "indices/*" src/mainapp/RunTSIndex.java arg1 arg2 arg3 arg4 arg5 arg6 arg7 "/path-to-UCR-archive/" "/path-to-index-store-location/" "path-to-results"
+```
 
 ## Results on UCR Archive
 The results we obtained for epsilon=0.25 can be found in the following tables:
