@@ -19,7 +19,7 @@ where arg1 is the query type (0 range, 1 kNN), arg2 is epsilon for range queries
 
 iSAX:
 ```
-ava -cp "indices/*" src/mainapp/RunISAX.java arg1 arg2 arg3 arg4 arg5 arg6 "/path-to-UCR-archive/" "/path-to-index-store-location/" "path-to-results"
+java -cp "indices/*" src/mainapp/RunISAX.java arg1 arg2 arg3 arg4 arg5 arg6 "/path-to-UCR-archive/" "/path-to-index-store-location/" "path-to-results"
 ```
 where arg1 is the query type (0 range, 1 kNN), arg2 is epsilon for range queries or k for kNN, arg3 is the maximum number of objects per node, arg4 is the number of segments (wordlength), arg5 is the number of queries to run and arg6 is the subsequence length.
 
